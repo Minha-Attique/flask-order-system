@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Add New Order</h2>
+<form method="POST">
+    Order ID: <input name="order_id"><br>
+    Items: <input name="items"><br>
+    Delivery Date: <input name="delivery_date"><br>
+    Sender: <input name="sender"><br>
+    Recipient: <input name="recipient"><br>
+    Address: <input name="address"><br>
+    <button type="submit">Add</button>
+</form>
+{% endblock %}

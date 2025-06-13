@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Edit Order</h2>
+<form method="POST">
+    Items: <input name="items" value="{{ order[2] }}"><br>
+    Delivery Date: <input name="delivery_date" value="{{ order[3] }}"><br>
+    Sender: <input name="sender" value="{{ order[4] }}"><br>
+    Recipient: <input name="recipient" value="{{ order[5] }}"><br>
+    Address: <input name="address" value="{{ order[6] }}"><br>
+    <button type="submit">Save</button>
+</form>
+{% endblock %}
