@@ -2,7 +2,7 @@
 
 A simple backend application built with **Flask** for managing and tracking customer orders. The system allows you to create, edit, delete, and mark orders as delivered. All actions are logged for auditing.
 
-## 📦 Features
+## Features
 
 - **Add New Orders**  
   Create orders with unique order IDs, delivery details, and customer information.
@@ -33,5 +33,5 @@ A simple backend application built with **Flask** for managing and tracking cust
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
