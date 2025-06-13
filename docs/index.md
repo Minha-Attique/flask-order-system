@@ -8,7 +8,7 @@ Welcome to the documentation for the **Flask Order Handling System** — a simpl
 - Minimal web interface using HTML forms and tables
 
 ## 📂 Repository
-👉 [View the code on GitHub](https://github.com/yourusername/flask-order-system)
+👉 [View the code on GitHub](https://github.com/Minha-Attique/flask-order-system)
 
 ## ⚙️ Tech Stack
 - Python 3
