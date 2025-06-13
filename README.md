@@ -24,7 +24,7 @@ A simple backend application built with **Flask** for managing and tracking cust
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3
 - Flask 3.x
